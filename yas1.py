@@ -2,6 +2,6 @@ ali=input('Alinin yasini giriniz: ')
 fatma=input('Fatmanin yasini giriniz: ')
 
 if ali==fatma:
-    print 'ali ile fatma ayný yastadir'
+    print 'ali ile fatma aynï¿½ yastadir'
 else:
-    print 'ayni sayiyi giriniz lütfen :)'
+    print 'ayni sayiyi giriniz lï¿½tfen :)'
