@@ -13,5 +13,5 @@ while fark!=0:
         print "tebrikler"
         break
     else:
-        print "soðuk"
+        print "soï¿½uk"
         fark=fark2
