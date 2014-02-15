@@ -7,31 +7,26 @@ while a<3:
   print a
 print "\n"
 
+
 for i in range(1,10):
    print i
+
 
 for i in "kelime":
    print i
 print "\n"
+
+
 for i in range(0,11,2):
    print i
 print "\n"
 
+
 print range(10,15)
+
 
 print range(0,20,3)
 
-
-a=" kader tarlan "
-print len(a)
-
-
-a=1234567
-b=str(a)
-c=len(b)
-print c
-a="kader"
-print 'k' in a
 
 
 kul_ad="kader"
