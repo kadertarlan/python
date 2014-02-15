@@ -3,7 +3,7 @@ try:
     print 'girilen anime', anime
 
 except NameError:
-    print 'naptýn sen ya'
+    print 'naptï¿½n sen ya'
 
 except SyntaxError:
     print 'dur orda'
